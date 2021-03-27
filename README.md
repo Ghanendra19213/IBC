@@ -15,9 +15,9 @@ Programming plan to implement the proposed project using open source hyperledger
 #### March Objective
 
 ##### Week 1 (Ideation)
-Project ideation and conceptualization of human aging genomic data privacy.
-Idea validation and read case studies on blockchain based genomics startups
-Evaluate existing blockchain business models in the genomics space.
+* Project ideation and conceptualization of human aging genomic data privacy.
+* Idea validation and read case studies on blockchain based genomics startups
+* Evaluate existing blockchain business models in the genomics space.
  
 ##### Week 2 (Fabric Fundamentals)
 Learn hyperledger fabric framework, tools and component design through tutorials. 
