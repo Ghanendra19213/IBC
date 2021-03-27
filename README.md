@@ -20,44 +20,44 @@ Programming plan to implement the proposed project using open source hyperledger
 * Evaluate existing blockchain business models in the genomics space.
  
 ##### Week 2 (Fabric Fundamentals)
-Learn hyperledger fabric framework, tools and component design through tutorials. 
-Getting familiar with Hyperledger Fabric platform and terminologies.
-Installation of prerequisites and Fabric SDK to work on blockchain projects.
-Run any demo project from fabric samples for understanding.
+* Learn hyperledger fabric framework, tools and component design through tutorials. 
+* Getting familiar with Hyperledger Fabric platform and terminologies.
+* Installation of prerequisites and Fabric SDK to work on blockchain projects.
+* Run any demo project from fabric samples for understanding.
 
 ##### Week 3 (Project framework)
-Define Fabric chaincode lifecycle for interaction between different participants.
-Using Private Data in Fabric and making collections for data read write accessibility.
-Define assets, transactions, events and understand business logic of the network.
-Defining endorsement policies for different members in the organisation prior to establishing a channel in the network.
+* Define Fabric chaincode lifecycle for interaction between different participants.
+* Using Private Data in Fabric and making collections for data read write accessibility.
+* Define assets, transactions, events and understand business logic of the network.
+* Defining endorsement policies for different members in the organisation prior to establishing a channel in the network.
 
 ##### Week 4 (Database creation)
-Using CouchDB database to store human aging genomics data.
-Learn about couchDB from video CouchDB for Fabric Developers and other sources.
-Define onchain metadata and hash to be stored in the transaction on blockchain and off chain immutable large genomic data. 
-Preparing sideDB database used by Hyperledger fabric for storing genomic data.
+* Using CouchDB database to store human aging genomics data.
+* Learn about couchDB from video CouchDB for Fabric Developers and other sources.
+* Define onchain metadata and hash to be stored in the transaction on blockchain and off chain immutable large genomic data. 
+* Preparing sideDB database used by Hyperledger fabric for storing genomic data.
 
 #### April Objective
 
 ##### Week 1 (Fabric Network)
-Create different types of participants at individual, organisation and system level.
-Assign participants roles and responsibilities like who can access data, create a channel, take part in consensus mechanisms. 
-Design structure of assets and their ownerships and how transactions are verified.
-Design selective data sharing based on transaction and sideDB database.
+* Create different types of participants at individual, organisation and system level.
+* Assign participants roles and responsibilities like who can access data, create a channel, take part in consensus mechanisms. 
+* Design structure of assets and their ownerships and how transactions are verified.
+* Design selective data sharing based on transaction and sideDB database.
 
 ##### Week 2 (Develop Smart Contract)
-To design and implement smart contract transactions and ledger data structures
-Implement access control, code smart contract functions to read and modify assets.
+* To design and implement smart contract transactions and ledger data structures
+* Implement access control, code smart contract functions to read and modify assets.
 
 ##### Week 3 (Fabric Security)
-Design and implement collection, state endorsement policies and ordering service.
-Define Fabric CA (certificate authority) and membership service provider.
-Use SDK to access fabric networks, submit transactions and query ledger and listen to the response from the network.
+* Design and implement collection, state endorsement policies and ordering service.
+* Define Fabric CA (certificate authority) and membership service provider.
+* Use SDK to access fabric networks, submit transactions and query ledger and listen to the response from the network.
 
 ##### Week 4 (Deploy Fabric Network)
-Run blockchain application, test and debug any errors.
-Check functionality of the code and modify as needed.
-Make sure the code is written with proper comments.
+* Run blockchain application, test and debug any errors.
+* Check functionality of the code and modify as needed.
+* Make sure the code is written with proper comments.
 
 #### References
 1. Hyperledger Fabric A Blockchain Platform for the Enterprise
